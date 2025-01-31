@@ -199,15 +199,15 @@ st.markdown("<br><br>", unsafe_allow_html=True)
 # Separate data into two lists
 team_images = [
     {
-        "image": "https://media-hosting.imagekit.io//9fdbbaa532f24e53/125.jpg?Expires=1736419206&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=n~2ls-YF0UmIaV-wn3y3WvA28h-8VDBYck9lIsprFUlMap9knZ0k7TEk6XNc80fw1M3Qd~GXP1OevnhxUKpDp8ySfoiPpmWEWlYJ4fwlBLYo-iDo7PcSr~065QZJr0DYd87E7wJvjU4tbXoPbDArEAmnIErsSPNr4CzmzYJ8MOzLT~MX6hIJNgGQR7neIh9SIQUdKphFx4POlSH9PfXCSfpQWQndujGPHwvsBkfTN1KsCas0D0byBmxo3kmKQk2vyqW39-R356efOy0qS19Vjqdl5Z9RRGYCuMqKruM1fqEiiEsAyjj30dVLedd5yHLg1cfkjPRViXpdsZ~G014SWg__",
+        "image": "https://media-hosting.imagekit.io//e1657929bf734b4d/125.jpg?Expires=1832954170&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=R4DuufkY8EHjs0lyZhntDE~3seN5cyfaNlqdxTjYOira~vZm8GSNGf2PS8LWtBq2eDadU7GKlEtH0Nwr92eFhyS-OfBWTsEvvbVM~RAZVT-jUltPeWtntI1LoJozGZ2BOAjGebZNpV1SVTNRE-1DLPnlhsqrztGQq740qHg6yqfFpJVdu1zGB0wSBiyn0SN10khsTYnC5KQk~8TLuYPEtiwQKbq3Zsw149mbKkEjYHorkqChUGkR0FyD~5rzr4S3RErkT1voqSUkZI8AEMYBBpbfUkBRBJN-pin~aRV9pJZbGmtDYFaEA9WN7uRaI6FR9y3gonYwmcj9gzs2lbiITg__",
         "name": "Dharan Balaji S B"
     },
     {
-        "image": "https://media-hosting.imagekit.io//f35f6516febe462f/IMG_6289.JPEG.jpg?Expires=1736418555&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Ee7Ejno-r6Qbelq0nQvK2AhZjcp~AbTLl4sS2D0meyvd1oTqp5~2LyyNeSph48b3czlzlowlWEhE-Q5ZFasBkZ--e0qQBjEVw52WiTKnqxF0J1oKVUSwaFvwxIEFF2-olCPQTyB3v8XKmFgwx1FkrfI5l8B1qr04dDrWLKgDYov8lM~-e6Ggn7bFYSrMWax18rKs4IQwvqX~WRZtn54qSD00Ieq1pqod1s4SwIJTWssjRhGK9L3lZKBmV7v72PawTUAk~Fd5W7RwDXhr-KjJtTMFcfIMZ~JliTOUzvZ1cGT-sVoQKCJotRD61Ac2kPZchgqKMgWKbW-6hUEjhsRMyw__",
+        "image": "https://media-hosting.imagekit.io//665bce29497d465a/IMG_6289.JPEG.jpg?Expires=1832954170&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Co3zyAGppF0CC2H9rFdg3Kp8GtWX~WIAHlT9WseMJjz97h1Z1Tp-9cBgxhdaqWkEbuFtbs0kEBf-m1u7HKOzHe-zNNkjG722JHaoF608hW-C~HxJFirWBjeNA6HDZ2TrDwLUOkOBB6EtbuAN3Q9TBPbmaKdKBb~nU-EtlW6CTNv5kpoCRjarEilqE~M2GcnNWzHTifOHwe8R4a1-M6DgkEj5~-yHHSqik5AzL71Cgt4W3HWWIoqlfbiUKeb3H~tn84su~RTKCwDUAepFqkVeDzdp5Nr97ctTt7R5J-1pAsbPveytlnm120Oa5r~OZJ76ZpTA9mvmKugjvDdIRYC-Qw__",
         "name": "Akash Selvadoss N"
     },
     {
-        "image": "https://media-hosting.imagekit.io//0576f1c96cb44b38/1000017789%20(413%C3%97531).jpg?Expires=1736404934&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=oCcGdu233U19pF7G2JT6nhWro9-PzakkMgI6DXZlvggu7FqTiq2wQjvPVGBq2FsOIT~PnATJtOTyAawZaeOV7nQSynMIaR3shHxt9kDblJsoFt1lbtV68oZ2CBkBwIN9c74KNnHmTNWYmL9B6jyyqyTXpZbBxCfkZaDrxpFfulXvxjaCsjidJqYo30W1obSAGcMWtGuXQgyzZeb6TwUazDYS0EhqWbCrojglbMegyx9oyHUWcTqbOpcBZkl7rWrGqotHF6iyHMXF56ELglT2oqLDfGcVlk53MHCNiVOOYKILPiz8GdzM27XRWo7w0VermGn~IZUcodXKDzdxld5cqg__",
+        "image": "https://media-hosting.imagekit.io//37184f47d3154274/Rahul%20(2).jpg?Expires=1832967159&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=xpRw70el0vAJaI8A6XgKqsbdX1-VEFmSP6GuZ8B~o~-oqeE-pdSVtcfrHhv2iykx9EMmzwpF5BWXBWzQFk6gmI~~j49ueIbJ8HYmT8diRs6XLFhCajOhI0G2UJZQSRvqZiWJhbaoolcIb7GEzfXqpFe5GepBYga9D~nf7mqKRBXxtzMGbeoD1eOyfRPCo71GbMFZzNzZK67VmQOSSkdOumF9f9QuHNe5sae4EB5FtVqUZh6fZLRp3931nyZ0RwH7hQcoyqQGjtIvdyiqb1rLb3WrR4nkTxLhA-zWG7Ua-YVfTPKsGT6epsE5m23TC-~TJ13QIFhxWD13Vi2YFRHrDw__",
         "name": "Rahul Raja P"
     },
     {
