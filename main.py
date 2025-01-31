@@ -207,7 +207,7 @@ team_images = [
         "name": "Akash Selvadoss N"
     },
     {
-        "image": "https://media-hosting.imagekit.io//37184f47d3154274/Rahul%20(2).jpg?Expires=1832967159&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=xpRw70el0vAJaI8A6XgKqsbdX1-VEFmSP6GuZ8B~o~-oqeE-pdSVtcfrHhv2iykx9EMmzwpF5BWXBWzQFk6gmI~~j49ueIbJ8HYmT8diRs6XLFhCajOhI0G2UJZQSRvqZiWJhbaoolcIb7GEzfXqpFe5GepBYga9D~nf7mqKRBXxtzMGbeoD1eOyfRPCo71GbMFZzNzZK67VmQOSSkdOumF9f9QuHNe5sae4EB5FtVqUZh6fZLRp3931nyZ0RwH7hQcoyqQGjtIvdyiqb1rLb3WrR4nkTxLhA-zWG7Ua-YVfTPKsGT6epsE5m23TC-~TJ13QIFhxWD13Vi2YFRHrDw__",
+        "image": "https://media-hosting.imagekit.io//b4e22b71610d4ad0/1000017789%20(413%C3%97531).jpg?Expires=1832967432&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=jmZ~nl3-2nOZuK9rlcu9~zrt0Mw45hWYtEWeTz-ONiGSjMLViGbpg-0zyMHIf61IxYF6WQXDOWED3vk43Sd6y-c1sNAPXI4FRKr0hmjbxKFqRSJrTQEmNXis0~HbvTIZINAE0bLJHl4Msy6U8yilQ7o-hg-uppIHfnhqgqrY7lcv7n4kAZ-rMARvUdsfFmxqxpq4wtKow6LLd8DIBxLnhOAZunOIux3pdzdD~BpkPdQo3V14r28TBd94eC9fv5WhElpTnwreq69bx9HVzcRWIKrE3Rxfo4hnCpO2XBxDfAGoqwGZoQyAeQj6lDf2s8R3j2WXgj62dL6mvb1P5Ugmtg__",
         "name": "Rahul Raja P"
     },
     {
