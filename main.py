@@ -58,7 +58,7 @@ st.markdown(
 )
 
 # Main headline
-st.markdown('<div class="headline">CMR - TECHFEST 2025</div>', unsafe_allow_html=True)
+st.markdown('<div class="headline">CMR - HACKFEST 2.0</div>', unsafe_allow_html=True)
 st.markdown('<div class="subtext"><b>Team Name:</b> Transformers</div>', unsafe_allow_html=True)
 st.markdown('<div class="subtext"><b>Problem Statement Number:</b> 37 (Generative AI)</div>', unsafe_allow_html=True)
 
